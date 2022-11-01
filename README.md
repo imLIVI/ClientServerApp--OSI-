@@ -1,4 +1,4 @@
-## ClientServerApp-OSI
+## ClientServerApp-OSI_v2
 ### Description
 To complete the task, you need:
 1. To edit the ```hosts``` file so that requests to the ```netology.homework``` address are redirected to your local computer (```127.0.0.1```)
